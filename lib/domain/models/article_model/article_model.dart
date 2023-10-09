@@ -1,5 +1,4 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:news_app/domain/models/comment_model/comment_model.dart';
 import 'package:news_app/domain/models/user_model/user_model.dart';
 
 part 'article_model.freezed.dart';
